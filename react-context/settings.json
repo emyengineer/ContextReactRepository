@@ -1,0 +1,11 @@
+{
+  "git.autofetch": true,
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Visual Studio Light",
+  "files.autoSave": "afterDelay",
+  "terminal.integrated.rendererType": "dom",
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "settingsSync.ignoredExtensions": [],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true
+}
